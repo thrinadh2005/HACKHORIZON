@@ -1,6 +1,32 @@
 # CycloneGuard GVMC - Enterprise Disaster Management Platform
 
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-19.0.0-61DAFB.svg?style=flat&logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-8.0-646CFF.svg?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/atlas)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 A comprehensive cyclone preparedness and real-time asset readiness platform built for Greater Visakhapatnam Municipal Corporation (GVMC). This system integrates AI-powered incident triage, real-time asset monitoring, coordinated emergency response, and GIS-based routing to enhance disaster management capabilities.
+
+---
+
+## 📋 Table of Contents
+- [ Overview](#-overview)
+- [ Architecture](#%EF%B8%8F-architecture)
+- [ Features](#-features)
+- [ Project Structure](#-project-structure)
+- [ Installation \& Setup](#%EF%B8%8F-installation--setup)
+- [ API Documentation](#-api-documentation)
+- [ Testing](#-testing)
+- [ Deployment](#-deployment)
+- [ Security Considerations](#-security-considerations)
+- [ Monitoring \& Logging](#-monitoring--logging)
+- [ Contributing](#-contributing)
+- [ License](#-license)
+
+---
 
 ## 🌟 Overview
 
@@ -514,6 +540,3 @@ For support and questions:
 ---
 
 **CycloneGuard GVMC** - Building resilient communities through technology-powered disaster management.
-#   H A C K H O R I Z O N  
- #   H A C K H O R I Z O N  
- 
