@@ -1,0 +1,22 @@
+{
+  "name": "cycloneguard-gvmc",
+  "version": "1.0.0",
+  "description": "CycloneGuard GVMC - Cyclone Preparedness & Real-Time Asset Readiness Platform",
+  "scripts": {
+    "start": "python start.py",
+    "start:backend": "python start.py",
+    "start:frontend": "cd frontend && pnpm dev",
+    "build": "cd frontend && pnpm build",
+    "test:mongo": "python test_mongo.py"
+  },
+  "keywords": [
+    "cycloneguard",
+    "gvmc",
+    "disaster-management",
+    "fastapi",
+    "mongodb-atlas",
+    "react19"
+  ],
+  "author": "GVMC Team",
+  "license": "MIT"
+}

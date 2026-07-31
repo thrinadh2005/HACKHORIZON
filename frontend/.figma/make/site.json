@@ -1,0 +1,10 @@
+{
+  "description": "Streamline project analysis by consolidating and evaluating all project documents, code, and assets for teams seeking comprehensive insights and improved collaboration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
